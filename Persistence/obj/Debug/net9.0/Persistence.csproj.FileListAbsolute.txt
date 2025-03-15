@@ -13,3 +13,4 @@
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/refint/Persistence.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.pdb
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/ref/Persistence.dll
+/Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
