@@ -1,0 +1,17 @@
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Application.deps.json
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Application.dll
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Application.pdb
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Domain.dll
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Persistence.dll
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Domain.pdb
+/Users/prince/Documents/DOTNET/social_activities_api/Application/bin/Debug/net9.0/Persistence.pdb
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.dll
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/refint/Application.dll
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/Application.pdb
+/Users/prince/Documents/DOTNET/social_activities_api/Application/obj/Debug/net9.0/ref/Application.dll
