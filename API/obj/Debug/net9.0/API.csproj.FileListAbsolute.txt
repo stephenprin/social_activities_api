@@ -156,3 +156,5 @@
 /Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/prince/Documents/DOTNET/social_activities_api/API/obj/Debug/net9.0/API.sourcelink.json
+/Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/MediatR.dll
+/Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/MediatR.Contracts.dll

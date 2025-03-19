@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lL0pRR/FvDA=",
+  "dgSpecHash": "iDQjzi7K+lo=",
   "success": true,
   "projectFilePath": "/Users/prince/Documents/DOTNET/social_activities_api/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/prince/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/prince/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/prince/.nuget/packages/microsoft.data.sqlite.core/9.0.3/microsoft.data.sqlite.core.9.0.3.nupkg.sha512",
     "/Users/prince/.nuget/packages/microsoft.entityframeworkcore/9.0.3/microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "/Users/prince/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.3/microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
