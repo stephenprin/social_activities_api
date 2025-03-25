@@ -1,4 +1,5 @@
 using Application.Activities.Command;
+using Application.Activities.DTOs;
 using Application.Activities.Queries;
 using Domain;
 using MediatR;
@@ -25,12 +26,12 @@ public class ActivitiesController() : BaseApiController
         return await Mediator.Send(new GetActivityDetail.Query { Id = id });
     }
     [HttpPost]
-    public async Task<ActionResult<string>> CreateActivity(Activity activity)
+    public async Task<ActionResult<string>> CreateActivity(CreateActivityDto createActivityDto)
     {
-        return await Mediator.Send(new CreateActivity.Command { Activity = activity });
+        return await Mediator.Send(new CreateActivity.Command { createActivityDto = createActivityDto });
     }
 
-    [HttpPut("{id}")]
+    [HttpPut]
     public async Task<ActionResult> EditActivity( Activity activity)
     {
         await Mediator.Send(new EditActivity.Command { Activity = activity });

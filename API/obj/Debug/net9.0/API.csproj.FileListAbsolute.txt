@@ -158,3 +158,4 @@
 /Users/prince/Documents/DOTNET/social_activities_api/API/obj/Debug/net9.0/API.sourcelink.json
 /Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/MediatR.dll
 /Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/prince/Documents/DOTNET/social_activities_api/API/bin/Debug/net9.0/AutoMapper.dll
