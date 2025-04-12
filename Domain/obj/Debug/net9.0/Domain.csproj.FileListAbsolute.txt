@@ -1,12 +1,13 @@
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/bin/Debug/net9.0/Domain.deps.json
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/bin/Debug/net9.0/Domain.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.sourcelink.json
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/ref/Domain.dll
-/Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.sourcelink.json

@@ -3,6 +3,7 @@ using Application.Activities.DTOs;
 using Application.Activities.Queries;
 using Domain;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,17 +14,19 @@ namespace API.Controllers;
 public class ActivitiesController() : BaseApiController
 {
 
-
+    [AllowAnonymous]
     [HttpGet]
     public async Task<ActionResult<List<Activity>>> GetActivities()
     {
         return await Mediator.Send(new GetActivityList.Query());
     }
+    [Authorize]
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Activity>> GetActivity(string id)
     {
-        return await Mediator.Send(new GetActivityDetail.Query { Id = id });
+        var result = await Mediator.Send(new GetActivityDetail.Query { Id = id });
+        return Ok(result);
     }
     [HttpPost]
     public async Task<ActionResult<string>> CreateActivity(CreateActivityDto createActivityDto)

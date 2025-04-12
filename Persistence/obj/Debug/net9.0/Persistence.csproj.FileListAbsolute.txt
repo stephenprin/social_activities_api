@@ -8,9 +8,9 @@
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/refint/Persistence.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.pdb
 /Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/ref/Persistence.dll
-/Users/prince/Documents/DOTNET/social_activities_api/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
