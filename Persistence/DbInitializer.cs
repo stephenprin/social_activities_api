@@ -15,7 +15,7 @@ public class DbInitializer
             };
             foreach (var user in users)
             {
-                await userManager.CreateAsync(user, "Pa$$w0rd");
+                await userManager.CreateAsync(user, "Pa$$w0rd"); 
             }
         }
         if (context.Activities.Any()) return;

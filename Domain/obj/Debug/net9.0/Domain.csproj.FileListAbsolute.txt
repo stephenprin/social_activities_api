@@ -11,3 +11,16 @@
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/prince/Documents/DOTNET/social_activities_api/Domain/obj/Debug/net9.0/ref/Domain.dll
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\Prince\OneDrive\Desktop\social_activities_api\Domain\obj\Debug\net9.0\ref\Domain.dll
