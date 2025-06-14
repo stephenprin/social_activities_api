@@ -20,7 +20,6 @@ public class ActivitiesController() : BaseApiController
     {
         return await Mediator.Send(new GetActivityList.Query());
     }
-    [Authorize]
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Activity>> GetActivity(string id)
@@ -47,5 +46,12 @@ public class ActivitiesController() : BaseApiController
     {
         await Mediator.Send(new DeleteActivity.Command { Id = id });
         return NoContent();
+    }
+    [HttpPost("{id}/attend")]
+    public async Task<ActionResult> UpdateAttendance(string id)
+    {
+        var result = await Mediator.Send(new UpdateAttendance.Command { Id = id });
+        if (result.IsSuccess) return Ok();
+        return BadRequest(result.Error);
     }
 }

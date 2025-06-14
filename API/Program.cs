@@ -2,8 +2,10 @@ using API.Middleware;
 using Application.Activities.Queries;
 using Application.Activities.Validators;
 using Application.Core;
+using Application.Interface;
 using Domain;
 using FluentValidation;
+using Infrastructure;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -14,6 +16,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddScoped<IUserAccessor, UserAccessor>();
 builder.Services.AddControllers(opt=>{
     var policy= new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
     opt.Filters.Add(new AuthorizeFilter(policy));
@@ -43,7 +46,8 @@ builder.Services.AddIdentityApiEndpoints<User>(opt =>
 var app = builder.Build();
 app.UseMiddleware<ExceptionMiddle>();
 
-app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000"));
+app.UseCors(policy => policy.AllowAnyHeader().AllowCredentials()
+.AllowAnyMethod().WithOrigins("http://localhost:3000"));
 
 
 app.UseAuthentication();
